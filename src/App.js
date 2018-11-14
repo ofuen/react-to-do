@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import "./App.css";
 
+// Updated to React16.7.0-alpha
+
 function Todo({ todo, index, completeTodo, removeTodo }) {
   return (
     <div
