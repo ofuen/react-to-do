@@ -5,13 +5,13 @@
   "homepage": "https://ofuen.github.io/react-to-do",
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "handlebars": "^4.3.2",
+    "handlebars": "^4.3.4",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
     "mixin-deep": "^2.0.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react": "^16.10.0",
+    "react-dom": "^16.10.0",
     "react-scripts": "^3.1.2",
     "set-value": "^3.0.1"
   },
